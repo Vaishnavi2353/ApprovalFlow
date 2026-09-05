@@ -71,12 +71,7 @@ const Login = () => {
           </Link>
         </p>
 
-        <div className="mt-6 text-xs text-gray-400 border-t border-gray-100 dark:border-gray-800 pt-4">
-          Demo accounts (after running <code>node seed.js</code> in backend):
-          <br />admin@approvalflow.com / password123
-          <br />approver1@approvalflow.com / password123
-          <br />employee@approvalflow.com / password123
-        </div>
+        
       </div>
     </div>
   );
